@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 9b9167c5240d3fa489dcf5bd26bcba56
+timeCreated: 1517053056
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Apron.01
+    100002: Building Floor.01
+    100004: //RootNode
+    100006: FLAG
+    100008: Layer:Bollard
+    100010: Layer:Bollard Cap
+    100012: Layer:Door Slabs
+    100014: Layer:Dryvit
+    100016: Layer:Face Brick
+    100018: Layer:Fascia-1
+    100020: Layer:fascia-2
+    100022: Layer:Flag Pole
+    100024: Layer:FlagPole-Base
+    100026: Layer:Frames
+    100028: Layer:garage door frames
+    100030: Layer:Garage Doors
+    100032: Layer:Glass
+    100034: Layer:Hardware
+    100036: Layer:header Brick
+    100038: Layer:Shingles
+    100040: Layer:Stone Base
+    100042: Layer:Stone Cap
+    100044: Layer:Text
+    100046: Layer:Vent Face
+    100048: Layer:Vent Frame
+    100050: Shingle-mini
+    100052: Shingles-East
+    100054: Shingles-North
+    100056: Shingles-South
+    100058: Shingles-West
+    100060: Sky01
+    100062: Spot001
+    100064: Spot001.Target
+    400000: Apron.01
+    400002: Building Floor.01
+    400004: //RootNode
+    400006: FLAG
+    400008: Layer:Bollard
+    400010: Layer:Bollard Cap
+    400012: Layer:Door Slabs
+    400014: Layer:Dryvit
+    400016: Layer:Face Brick
+    400018: Layer:Fascia-1
+    400020: Layer:fascia-2
+    400022: Layer:Flag Pole
+    400024: Layer:FlagPole-Base
+    400026: Layer:Frames
+    400028: Layer:garage door frames
+    400030: Layer:Garage Doors
+    400032: Layer:Glass
+    400034: Layer:Hardware
+    400036: Layer:header Brick
+    400038: Layer:Shingles
+    400040: Layer:Stone Base
+    400042: Layer:Stone Cap
+    400044: Layer:Text
+    400046: Layer:Vent Face
+    400048: Layer:Vent Frame
+    400050: Shingle-mini
+    400052: Shingles-East
+    400054: Shingles-North
+    400056: Shingles-South
+    400058: Shingles-West
+    400060: Sky01
+    400062: Spot001
+    400064: Spot001.Target
+    2300000: Apron.01
+    2300002: Building Floor.01
+    2300004: FLAG
+    2300006: Layer:Bollard
+    2300008: Layer:Bollard Cap
+    2300010: Layer:Door Slabs
+    2300012: Layer:Dryvit
+    2300014: Layer:Face Brick
+    2300016: Layer:Fascia-1
+    2300018: Layer:fascia-2
+    2300020: Layer:Flag Pole
+    2300022: Layer:FlagPole-Base
+    2300024: Layer:Frames
+    2300026: Layer:garage door frames
+    2300028: Layer:Garage Doors
+    2300030: Layer:Glass
+    2300032: Layer:Hardware
+    2300034: Layer:header Brick
+    2300036: Layer:Shingles
+    2300038: Layer:Stone Base
+    2300040: Layer:Stone Cap
+    2300042: Layer:Text
+    2300044: Layer:Vent Face
+    2300046: Layer:Vent Frame
+    2300048: Shingle-mini
+    2300050: Shingles-East
+    2300052: Shingles-North
+    2300054: Shingles-South
+    2300056: Shingles-West
+    3300000: Apron.01
+    3300002: Building Floor.01
+    3300004: FLAG
+    3300006: Layer:Bollard
+    3300008: Layer:Bollard Cap
+    3300010: Layer:Door Slabs
+    3300012: Layer:Dryvit
+    3300014: Layer:Face Brick
+    3300016: Layer:Fascia-1
+    3300018: Layer:fascia-2
+    3300020: Layer:Flag Pole
+    3300022: Layer:FlagPole-Base
+    3300024: Layer:Frames
+    3300026: Layer:garage door frames
+    3300028: Layer:Garage Doors
+    3300030: Layer:Glass
+    3300032: Layer:Hardware
+    3300034: Layer:header Brick
+    3300036: Layer:Shingles
+    3300038: Layer:Stone Base
+    3300040: Layer:Stone Cap
+    3300042: Layer:Text
+    3300044: Layer:Vent Face
+    3300046: Layer:Vent Frame
+    3300048: Shingle-mini
+    3300050: Shingles-East
+    3300052: Shingles-North
+    3300054: Shingles-South
+    3300056: Shingles-West
+    4300000: Layer:Face Brick
+    4300002: Layer:Stone Cap
+    4300004: Layer:Frames
+    4300006: Layer:header Brick
+    4300008: Layer:garage door frames
+    4300010: Layer:Door Slabs
+    4300012: Layer:Stone Base
+    4300014: Layer:fascia-2
+    4300016: Layer:Fascia-1
+    4300018: Layer:Shingles
+    4300020: Apron.01
+    4300022: Building Floor.01
+    4300024: Layer:Bollard
+    4300026: Layer:Bollard Cap
+    4300028: Layer:FlagPole-Base
+    4300030: Layer:Flag Pole
+    4300032: FLAG
+    4300034: Layer:Text
+    4300036: Layer:Dryvit
+    4300038: Shingles-East
+    4300040: Shingles-West
+    4300042: Shingles-North
+    4300044: Shingles-South
+    4300046: Shingle-mini
+    4300048: Layer:Vent Frame
+    4300050: Layer:Vent Face
+    4300052: Layer:Glass
+    4300054: Layer:Garage Doors
+    4300056: Layer:Hardware
+    9500000: //RootNode
+    10800000: Sky01
+    10800002: Spot001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 9f1e2e965f69ad2459922fa760ac4239, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #3'
+    second: {fileID: 2100000, guid: 07f0510f13f1da2409b0a227f20a3127, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
